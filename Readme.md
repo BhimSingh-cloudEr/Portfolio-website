@@ -45,7 +45,7 @@ npm -v
 								}
 
 ### ubuntu@ip-172-31-12-185:~$ history
-**
+
     1  sudo apt-get update
     2  ls
     3  cd Portfolio-Website/
@@ -74,6 +74,5 @@ npm -v
    26  sudo systemctl restart
    27  reboot
    28  history
-**
 
 
